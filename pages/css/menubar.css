@@ -1,0 +1,38 @@
+
+<style type="text/css">
+	#main_menu {
+		float: left;
+		width: 25%;
+		color: #2f2f2f;
+    	font: 12px/15px Helvetica, sans-serif;
+	    font-size: 13px;
+	    float: left;
+	    height: 100%;
+	    background-color: #f4f4f4;
+	    padding-top: 20px;
+	    padding-bottom: 20px;
+	}
+	
+	#main_body {
+	  float: right;
+	  width: 75%;
+	  padding: 0 20px;
+	  padding-top: 20px;
+	  background-color: #ffffff;
+	  font: 14px/17px Helvetica, sans-serif;
+	  }
+	 #system_info{
+	 	    height: 500px;
+	 }
+	 #footer{
+	 float: bottom;
+	 }
+	 
+	 /* Solid border */
+	.solid {
+ 	 	border-top: 1px solid #bbb;
+	}
+	
+	
+	
+</style>
